@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive - 3D Infotech, Inc\Desktop\Code\example01\bin\Debug\example01.exe.config
+C:\Users\user\OneDrive - 3D Infotech, Inc\Desktop\Code\example01\bin\Debug\example01.exe
+C:\Users\user\OneDrive - 3D Infotech, Inc\Desktop\Code\example01\bin\Debug\example01.pdb
+C:\Users\user\OneDrive - 3D Infotech, Inc\Desktop\Code\example01\obj\Debug\example01.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - 3D Infotech, Inc\Desktop\Code\example01\obj\Debug\example01.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - 3D Infotech, Inc\Desktop\Code\example01\obj\Debug\example01.exe
+C:\Users\user\OneDrive - 3D Infotech, Inc\Desktop\Code\example01\obj\Debug\example01.pdb
+C:\Users\user\Source\Repos\HarryQ8\HarryQ8-Csharp-course-learning\example01\bin\Debug\example01.exe.config
+C:\Users\user\Source\Repos\HarryQ8\HarryQ8-Csharp-course-learning\example01\bin\Debug\example01.exe
+C:\Users\user\Source\Repos\HarryQ8\HarryQ8-Csharp-course-learning\example01\bin\Debug\example01.pdb
+C:\Users\user\Source\Repos\HarryQ8\HarryQ8-Csharp-course-learning\example01\obj\Debug\example01.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\HarryQ8\HarryQ8-Csharp-course-learning\example01\obj\Debug\example01.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\HarryQ8\HarryQ8-Csharp-course-learning\example01\obj\Debug\example01.exe
+C:\Users\user\Source\Repos\HarryQ8\HarryQ8-Csharp-course-learning\example01\obj\Debug\example01.pdb
+C:\Users\11448\Source\Repos\HarryQ8\HarryQ8-Csharp-course-learning\example01\obj\Debug\example01.exe
+C:\Users\11448\Source\Repos\HarryQ8\HarryQ8-Csharp-course-learning\example01\obj\Debug\example01.pdb
