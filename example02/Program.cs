@@ -42,7 +42,9 @@ namespace example02
             //带格式进行输出
 
             Console.WriteLine("和是{0},平均数{1}",sum,sum/4);    // 带格式的占位符进行格式输出
-            int
+
+            int x = 1;
+
         }
     }
 }
