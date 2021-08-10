@@ -11,6 +11,9 @@ namespace VSExample01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            int x = 1;
+            double s = 53.63;
+
         }
     }
 
