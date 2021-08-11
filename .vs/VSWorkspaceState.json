@@ -3,8 +3,9 @@
     "",
     "\\example01",
     "\\example02",
+    "\\Example03",
     "\\VS_Example"
   ],
-  "SelectedNode": "\\VS_Example\\Program.cs",
+  "SelectedNode": "\\Example03\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

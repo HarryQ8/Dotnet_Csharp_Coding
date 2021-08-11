@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO
+using System.Management
 
 namespace Example03
 {
@@ -20,15 +22,14 @@ namespace Example03
             //  骆驼命名法
 
             int[] num = new int[100];
-            int[] cc =;
+            int[] cc = 0;
             cc = new int[40];
             a = 89.0f;
-            b = 45.5f;
+            b = 45.5f; 
             c = 8f;
 
 
             float d = a + b + c;
-            m 
             x = y / 20;
             bool k = a > b;
             if (a + b > c && c = 1)
@@ -38,6 +39,14 @@ namespace Example03
             /*
              表达式，变量，值变量之间的关系问题
              */
+
+            struct A
+        {
+            int x;
+            int t;
+
+        }
+        EnvironmentVariableTarget environmentVariable ;
         }
     }
 }
