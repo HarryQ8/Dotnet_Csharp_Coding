@@ -1,0 +1,16 @@
+C:\Users\user\Source\Repos\HarryQ8\Csharp_Coding\demo\bin\Debug\net5.0\demo.exe
+C:\Users\user\Source\Repos\HarryQ8\Csharp_Coding\demo\bin\Debug\net5.0\demo.deps.json
+C:\Users\user\Source\Repos\HarryQ8\Csharp_Coding\demo\bin\Debug\net5.0\demo.runtimeconfig.json
+C:\Users\user\Source\Repos\HarryQ8\Csharp_Coding\demo\bin\Debug\net5.0\demo.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\HarryQ8\Csharp_Coding\demo\bin\Debug\net5.0\demo.dll
+C:\Users\user\Source\Repos\HarryQ8\Csharp_Coding\demo\bin\Debug\net5.0\ref\demo.dll
+C:\Users\user\Source\Repos\HarryQ8\Csharp_Coding\demo\bin\Debug\net5.0\demo.pdb
+C:\Users\user\Source\Repos\HarryQ8\Csharp_Coding\demo\obj\Debug\net5.0\demo.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\HarryQ8\Csharp_Coding\demo\obj\Debug\net5.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\HarryQ8\Csharp_Coding\demo\obj\Debug\net5.0\demo.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\HarryQ8\Csharp_Coding\demo\obj\Debug\net5.0\demo.AssemblyInfo.cs
+C:\Users\user\Source\Repos\HarryQ8\Csharp_Coding\demo\obj\Debug\net5.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\HarryQ8\Csharp_Coding\demo\obj\Debug\net5.0\demo.dll
+C:\Users\user\Source\Repos\HarryQ8\Csharp_Coding\demo\obj\Debug\net5.0\ref\demo.dll
+C:\Users\user\Source\Repos\HarryQ8\Csharp_Coding\demo\obj\Debug\net5.0\demo.pdb
+C:\Users\user\Source\Repos\HarryQ8\Csharp_Coding\demo\obj\Debug\net5.0\demo.genruntimeconfig.cache

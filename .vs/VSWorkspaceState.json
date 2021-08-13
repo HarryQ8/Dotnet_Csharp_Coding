@@ -1,11 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\example01",
+    "\\demo",
+    "\\demo\\bin\\Debug",
+    "\\demo\\bin\\Debug\\net5.0",
     "\\example02",
-    "\\Example03",
+    "\\example02\\Properties",
+    "\\example03",
+    "\\example04",
+    "\\SayHello",
     "\\VS_Example"
   ],
-  "SelectedNode": "\\Example03\\Program.cs",
+  "SelectedNode": "\\SayHello\\SayHello.sln",
   "PreviewInSolutionExplorer": false
 }
