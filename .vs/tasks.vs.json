@@ -5,6 +5,21 @@
       "taskLabel": "task-Aonsole Application",
       "appliesTo": "Aonsole Application/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-Program",
+      "appliesTo": "demo/Program.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-TTS",
+      "appliesTo": "TTS/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-TTS",
+      "appliesTo": "TTS/TTS.csproj",
+      "type": "msbuild"
     }
   ]
 }

@@ -22,6 +22,7 @@ namespace example01
         public void SayHello()
         {
             Console.WriteLine("Hello world");
+            Console.BackgroundColor()
         }
     }
 }

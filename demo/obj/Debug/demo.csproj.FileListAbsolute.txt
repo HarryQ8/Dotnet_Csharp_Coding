@@ -1,0 +1,2 @@
+C:\Users\user\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache

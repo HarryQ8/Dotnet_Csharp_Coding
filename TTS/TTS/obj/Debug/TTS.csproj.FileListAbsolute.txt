@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\TTS\TTS\bin\Debug\TTS.exe.config
+C:\Users\user\source\repos\TTS\TTS\bin\Debug\TTS.exe
+C:\Users\user\source\repos\TTS\TTS\bin\Debug\TTS.pdb
+C:\Users\user\source\repos\TTS\TTS\obj\Debug\TTS.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TTS\TTS\obj\Debug\TTS.Form1.resources
+C:\Users\user\source\repos\TTS\TTS\obj\Debug\TTS.Properties.Resources.resources
+C:\Users\user\source\repos\TTS\TTS\obj\Debug\TTS.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TTS\TTS\obj\Debug\TTS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TTS\TTS\obj\Debug\TTS.exe
+C:\Users\user\source\repos\TTS\TTS\obj\Debug\TTS.pdb

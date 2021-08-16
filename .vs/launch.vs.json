@@ -1,0 +1,18 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "TTS\\Program.cs",
+      "projectTarget": "",
+      "name": "Program.cs"
+    },
+    {
+      "type": "managed",
+      "name": "Program.cs",
+      "project": "TTS01\\Program.cs",
+      "projectTarget": ""
+    }
+  ]
+}

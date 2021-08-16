@@ -1,4 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Speech.Synthesis;
 
 namespace demo
 {
@@ -6,33 +11,18 @@ namespace demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("\n展示控制台文本颜色属性的的用法");
+            SpeechSynthesizer voice = new SpeechSynthesizer();   //创建语音实例
+            voice.Rate = -1; //设置语速,[-10,10]
+            voice.Volume = 100; //设置音量,[0,100]
+            voice.SpeakAsync("Hellow Word");  //播放指定的字符串,这是异步朗读
 
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("前景颜色为绿色");
-            Console.BackgroundColor = ConsoleColor.White;
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine("蓝色的前景，白色的背景");
-            Console.BackgroundColor = ConsoleColor.Black;
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("黑色背景红色前景");
+            //下面的代码为一些SpeechSynthesizer的属性，看实际情况是否需要使用
+            voice.Dispose();  //释放所有语音资源
+            voice.SpeakAsyncCancelAll();  //取消朗读
+            voice.Speak("Hellow Word");  //同步朗读
+            voice.Pause();  //暂停朗读
+            voice.Resume(); //继续朗读
 
-            //  还原为白色的前景，黑色的背景
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.BackgroundColor = ConsoleColor.Black;
-
-            //  加一个空行
-            Console.WriteLine();
-
-
-            Console.WriteLine("Please input a string line :");
-            string userinput = Console.ReadLine();
-            Console.WriteLine("\tuser's input:{0},there are totally {1} character\n", userinput, userinput.Length);
-            
-            Console.ReadKey(true);
         }
     }
 }
