@@ -1,0 +1,40 @@
+E:\CurrentWorking\C#新特性\课件和PPT\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.exe
+E:\CurrentWorking\C#新特性\课件和PPT\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.deps.json
+E:\CurrentWorking\C#新特性\课件和PPT\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.runtimeconfig.json
+E:\CurrentWorking\C#新特性\课件和PPT\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.runtimeconfig.dev.json
+E:\CurrentWorking\C#新特性\课件和PPT\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.dll
+E:\CurrentWorking\C#新特性\课件和PPT\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.pdb
+E:\CurrentWorking\C#新特性\课件和PPT\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.csprojAssemblyReference.cache
+E:\CurrentWorking\C#新特性\课件和PPT\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.AssemblyInfoInputs.cache
+E:\CurrentWorking\C#新特性\课件和PPT\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.AssemblyInfo.cs
+E:\CurrentWorking\C#新特性\课件和PPT\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.csproj.CoreCompileInputs.cache
+E:\CurrentWorking\C#新特性\课件和PPT\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.dll
+E:\CurrentWorking\C#新特性\课件和PPT\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.pdb
+E:\CurrentWorking\C#新特性\课件和PPT\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.genruntimeconfig.cache
+C:\正在准备的课程\CurrentWorking\C#新特性\第一门编程课\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.exe
+C:\正在准备的课程\CurrentWorking\C#新特性\第一门编程课\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.deps.json
+C:\正在准备的课程\CurrentWorking\C#新特性\第一门编程课\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.runtimeconfig.json
+C:\正在准备的课程\CurrentWorking\C#新特性\第一门编程课\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.runtimeconfig.dev.json
+C:\正在准备的课程\CurrentWorking\C#新特性\第一门编程课\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.dll
+C:\正在准备的课程\CurrentWorking\C#新特性\第一门编程课\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.pdb
+C:\正在准备的课程\CurrentWorking\C#新特性\第一门编程课\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.csprojAssemblyReference.cache
+C:\正在准备的课程\CurrentWorking\C#新特性\第一门编程课\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.AssemblyInfoInputs.cache
+C:\正在准备的课程\CurrentWorking\C#新特性\第一门编程课\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.AssemblyInfo.cs
+C:\正在准备的课程\CurrentWorking\C#新特性\第一门编程课\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.csproj.CoreCompileInputs.cache
+C:\正在准备的课程\CurrentWorking\C#新特性\第一门编程课\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.dll
+C:\正在准备的课程\CurrentWorking\C#新特性\第一门编程课\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.pdb
+C:\正在准备的课程\CurrentWorking\C#新特性\第一门编程课\2 C#结构化编程基础\1 变量、数据类型与表达式\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.genruntimeconfig.cache
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.csproj.AssemblyReference.cache
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.AssemblyInfoInputs.cache
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.AssemblyInfo.cs
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.csproj.CoreCompileInputs.cache
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.dll
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.pdb
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.exe
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.deps.json
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.runtimeconfig.json
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.runtimeconfig.dev.json
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.dll
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.pdb
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.genruntimeconfig.cache

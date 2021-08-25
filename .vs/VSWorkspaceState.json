@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TTS01"
+    "\\VariableAndDataType",
+    "\\VariableAndDataType\\VariableAndDataType"
   ],
-  "SelectedNode": "\\TTS01\\Program.cs",
+  "SelectedNode": "\\VariableAndDataType\\VariableAndDataType\\Program.cs",
   "PreviewInSolutionExplorer": true
 }

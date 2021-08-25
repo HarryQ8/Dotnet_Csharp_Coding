@@ -1,7 +1,0 @@
-C:\Users\user\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\test\bin\Debug\test.exe.config
-C:\Users\user\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\test\bin\Debug\test.exe
-C:\Users\user\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\test\bin\Debug\test.pdb
-C:\Users\user\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\test\obj\Debug\test.csproj.AssemblyReference.cache
-C:\Users\user\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\test\obj\Debug\test.csproj.CoreCompileInputs.cache
-C:\Users\user\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\test\obj\Debug\test.exe
-C:\Users\user\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\test\obj\Debug\test.pdb

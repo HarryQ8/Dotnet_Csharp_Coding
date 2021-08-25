@@ -1,7 +1,0 @@
-C:\Users\user\source\repos\TTS02\TTS02\bin\Debug\TTS02.exe.config
-C:\Users\user\source\repos\TTS02\TTS02\bin\Debug\TTS02.exe
-C:\Users\user\source\repos\TTS02\TTS02\bin\Debug\TTS02.pdb
-C:\Users\user\source\repos\TTS02\TTS02\obj\Debug\TTS02.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\TTS02\TTS02\obj\Debug\TTS02.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\TTS02\TTS02\obj\Debug\TTS02.exe
-C:\Users\user\source\repos\TTS02\TTS02\obj\Debug\TTS02.pdb

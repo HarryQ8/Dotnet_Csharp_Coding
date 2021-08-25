@@ -12,3 +12,10 @@ C:\Users\user\Source\Repos\HarryQ8\HarryQ8-Csharp-course-learning\example02\obj\
 C:\Users\user\Source\Repos\HarryQ8\HarryQ8-Csharp-course-learning\example02\bin\Debug\example02.exe.config
 C:\Users\user\Source\Repos\HarryQ8\HarryQ8-Csharp-course-learning\example02\bin\Debug\example02.exe
 C:\Users\user\Source\Repos\HarryQ8\HarryQ8-Csharp-course-learning\example02\bin\Debug\example02.pdb
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\example02\bin\Debug\example02.exe.config
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\example02\bin\Debug\example02.exe
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\example02\bin\Debug\example02.pdb
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\example02\obj\Debug\example02.csproj.AssemblyReference.cache
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\example02\obj\Debug\example02.csproj.CoreCompileInputs.cache
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\example02\obj\Debug\example02.exe
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\example02\obj\Debug\example02.pdb
