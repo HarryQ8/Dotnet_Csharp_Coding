@@ -225,12 +225,17 @@ namespace VariableAndDataType
 
         }
 
-            static void UseExpression()
-            {
+        static void UseExpression()
+        {
                 int value = 100;
                 Console.WriteLine(value * 2);   //括号中可以作为一个表达式
-            }
+        }
 
-         #endregion
+        #endregion
+
+
+        #region MyRegion
+
+        #endregion
     }
 }
