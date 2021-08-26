@@ -12,7 +12,7 @@ namespace VariableAndDataType
 
             //UseLargeNumbers();
 
-            // DefaultValues();
+            //DefaultValues();
 
             //DefineVariable();
 
@@ -22,17 +22,17 @@ namespace VariableAndDataType
 
             //UseVarKeyWord();
 
-            PrintDataTypeLength();
+            //PrintDataTypeLength();
 
             //WhyTheResultIsWrong();
 
-            ///CompareTwoFloatNumber();
+            //CompareTwoFloatNumber();
 
             //StringAndNumberType();
 
             //UseOperator();
 
-            //UseExpression();
+            UseExpression();
 
             Console.ReadKey();
         }
@@ -152,7 +152,7 @@ namespace VariableAndDataType
         static void NumberTypeConvert()
         {
             int intValue = 100;
-            long longValue = 100l;
+            long longValue = 100L;
             double doubleValue = 100.5d;
             float floatValue = 100.5f;
 
@@ -175,27 +175,62 @@ namespace VariableAndDataType
         /// </summary>
         static void StringAndNumberType()
         {
-            string strValue = "100";
+            string strValue = "100";    //传入字符串100
 
             //string -->数值类型
+            //类型转换表
 
             //方法一：使用Parse方法
             int intValue = int.Parse(strValue);
             double doubleValue = double.Parse(strValue);
+
             //方法二：使用Convert类
             intValue = Convert.ToInt32(strValue);
             doubleValue = Convert.ToDouble(strValue);
+            
 
             //数值类型 -->string
 
             //方法一：调用ToString()方法
             strValue = intValue.ToString();
+            strValue = doubleValue.ToString();
+            strValue = 200.ToString();
+
             //方法二：将数值类型变量与一个空字符串相加
             strValue = doubleValue + "";
 
         }
 
 
-      
+
+        #region "运算符与表达式"
+
+        /// <summary>
+        /// 运算符与表达式，使用运算符
+        /// </summary>
+
+        static void UseOperator()
+        {
+            //+_* /,()
+
+            double result = ((5 + 3) * 2 - 7) / 6.0;
+            Console.WriteLine(result);
+
+            int value = 9 % 4;
+            Console.WriteLine(value);
+
+            int index = 1;
+            Console.WriteLine(index++);
+            Console.WriteLine(++index);
+
+        }
+
+            static void UseExpression()
+            {
+                int value = 100;
+                Console.WriteLine(value * 2);   //括号中可以作为一个表达式
+            }
+
+         #endregion
     }
 }
