@@ -1,0 +1,16 @@
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\Example05\bin\Debug\net5.0\Example05.exe
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\Example05\bin\Debug\net5.0\Example05.deps.json
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\Example05\bin\Debug\net5.0\Example05.runtimeconfig.json
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\Example05\bin\Debug\net5.0\Example05.runtimeconfig.dev.json
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\Example05\bin\Debug\net5.0\Example05.dll
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\Example05\bin\Debug\net5.0\ref\Example05.dll
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\Example05\bin\Debug\net5.0\Example05.pdb
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\Example05\obj\Debug\net5.0\Example05.csproj.AssemblyReference.cache
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\Example05\obj\Debug\net5.0\Example05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\Example05\obj\Debug\net5.0\Example05.AssemblyInfoInputs.cache
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\Example05\obj\Debug\net5.0\Example05.AssemblyInfo.cs
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\Example05\obj\Debug\net5.0\Example05.csproj.CoreCompileInputs.cache
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\Example05\obj\Debug\net5.0\Example05.dll
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\Example05\obj\Debug\net5.0\ref\Example05.dll
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\Example05\obj\Debug\net5.0\Example05.pdb
+C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\Example05\obj\Debug\net5.0\Example05.genruntimeconfig.cache

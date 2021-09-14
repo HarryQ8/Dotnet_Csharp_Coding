@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\demo",
+    "\\demo\\demo"
   ],
-  "SelectedNode": "\\VariableAndDataType.sln",
+  "SelectedNode": "\\demo\\demo\\Program.cs",
   "PreviewInSolutionExplorer": true
 }
