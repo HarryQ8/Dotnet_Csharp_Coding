@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\demo",
-    "\\Example05"
+    "\\LearningCSharp",
+    "\\LearningCSharp\\SayHello",
+    "\\Picture"
   ],
-  "SelectedNode": "\\Example05\\Program.cs",
+  "SelectedNode": "\\Picture",
   "PreviewInSolutionExplorer": true
 }

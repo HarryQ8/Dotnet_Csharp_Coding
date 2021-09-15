@@ -1,0 +1,16 @@
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\bin\Debug\net5.0\SayHello.exe
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\bin\Debug\net5.0\SayHello.deps.json
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\bin\Debug\net5.0\SayHello.runtimeconfig.json
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\bin\Debug\net5.0\SayHello.runtimeconfig.dev.json
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\bin\Debug\net5.0\SayHello.dll
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\bin\Debug\net5.0\ref\SayHello.dll
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\bin\Debug\net5.0\SayHello.pdb
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\obj\Debug\net5.0\SayHello.csproj.AssemblyReference.cache
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\obj\Debug\net5.0\SayHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\obj\Debug\net5.0\SayHello.AssemblyInfoInputs.cache
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\obj\Debug\net5.0\SayHello.AssemblyInfo.cs
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\obj\Debug\net5.0\SayHello.csproj.CoreCompileInputs.cache
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\obj\Debug\net5.0\SayHello.dll
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\obj\Debug\net5.0\ref\SayHello.dll
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\obj\Debug\net5.0\SayHello.pdb
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\obj\Debug\net5.0\SayHello.genruntimeconfig.cache

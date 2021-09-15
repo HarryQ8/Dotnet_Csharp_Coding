@@ -1,0 +1,16 @@
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\VaruableAndDataType\VaruableAndDataType\bin\Debug\net5.0\VaruableAndDataType.exe
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\VaruableAndDataType\VaruableAndDataType\bin\Debug\net5.0\VaruableAndDataType.deps.json
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\VaruableAndDataType\VaruableAndDataType\bin\Debug\net5.0\VaruableAndDataType.runtimeconfig.json
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\VaruableAndDataType\VaruableAndDataType\bin\Debug\net5.0\VaruableAndDataType.runtimeconfig.dev.json
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\VaruableAndDataType\VaruableAndDataType\bin\Debug\net5.0\VaruableAndDataType.dll
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\VaruableAndDataType\VaruableAndDataType\bin\Debug\net5.0\ref\VaruableAndDataType.dll
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\VaruableAndDataType\VaruableAndDataType\bin\Debug\net5.0\VaruableAndDataType.pdb
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\VaruableAndDataType\VaruableAndDataType\obj\Debug\net5.0\VaruableAndDataType.csproj.AssemblyReference.cache
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\VaruableAndDataType\VaruableAndDataType\obj\Debug\net5.0\VaruableAndDataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\VaruableAndDataType\VaruableAndDataType\obj\Debug\net5.0\VaruableAndDataType.AssemblyInfoInputs.cache
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\VaruableAndDataType\VaruableAndDataType\obj\Debug\net5.0\VaruableAndDataType.AssemblyInfo.cs
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\VaruableAndDataType\VaruableAndDataType\obj\Debug\net5.0\VaruableAndDataType.csproj.CoreCompileInputs.cache
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\VaruableAndDataType\VaruableAndDataType\obj\Debug\net5.0\VaruableAndDataType.dll
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\VaruableAndDataType\VaruableAndDataType\obj\Debug\net5.0\ref\VaruableAndDataType.dll
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\VaruableAndDataType\VaruableAndDataType\obj\Debug\net5.0\VaruableAndDataType.pdb
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\VaruableAndDataType\VaruableAndDataType\obj\Debug\net5.0\VaruableAndDataType.genruntimeconfig.cache
