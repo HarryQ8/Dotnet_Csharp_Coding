@@ -1,0 +1,16 @@
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\IfAndSwitch\IfAndSwitch\bin\Debug\net5.0\IfAndSwitch.exe
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\IfAndSwitch\IfAndSwitch\bin\Debug\net5.0\IfAndSwitch.deps.json
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\IfAndSwitch\IfAndSwitch\bin\Debug\net5.0\IfAndSwitch.runtimeconfig.json
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\IfAndSwitch\IfAndSwitch\bin\Debug\net5.0\IfAndSwitch.runtimeconfig.dev.json
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\IfAndSwitch\IfAndSwitch\bin\Debug\net5.0\IfAndSwitch.dll
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\IfAndSwitch\IfAndSwitch\bin\Debug\net5.0\ref\IfAndSwitch.dll
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\IfAndSwitch\IfAndSwitch\bin\Debug\net5.0\IfAndSwitch.pdb
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\IfAndSwitch\IfAndSwitch\obj\Debug\net5.0\IfAndSwitch.csproj.AssemblyReference.cache
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\IfAndSwitch\IfAndSwitch\obj\Debug\net5.0\IfAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\IfAndSwitch\IfAndSwitch\obj\Debug\net5.0\IfAndSwitch.AssemblyInfoInputs.cache
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\IfAndSwitch\IfAndSwitch\obj\Debug\net5.0\IfAndSwitch.AssemblyInfo.cs
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\IfAndSwitch\IfAndSwitch\obj\Debug\net5.0\IfAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\IfAndSwitch\IfAndSwitch\obj\Debug\net5.0\IfAndSwitch.dll
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\IfAndSwitch\IfAndSwitch\obj\Debug\net5.0\ref\IfAndSwitch.dll
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\IfAndSwitch\IfAndSwitch\obj\Debug\net5.0\IfAndSwitch.pdb
+C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\IfAndSwitch\IfAndSwitch\obj\Debug\net5.0\IfAndSwitch.genruntimeconfig.cache

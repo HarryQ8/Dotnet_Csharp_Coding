@@ -3,8 +3,9 @@
     "",
     "\\LearningCSharp",
     "\\LearningCSharp\\SayHello",
-    "\\Picture"
+    "\\LearningCSharp\\SayHello\\obj",
+    "\\Picture",
+    "\\VaruableAndDataType"
   ],
-  "SelectedNode": "\\Picture",
   "PreviewInSolutionExplorer": true
 }

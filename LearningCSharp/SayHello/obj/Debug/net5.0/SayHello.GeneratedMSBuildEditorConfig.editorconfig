@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = SayHello
-build_property.ProjectDir = C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\
+build_property.ProjectDir = C:\Users\HuangQi\source\repos\HarryQ8\Dotnet_Csharp_Coding\LearningCSharp\SayHello\
