@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LearningCSharp",
-    "\\LearningCSharp\\SayHello",
-    "\\LearningCSharp\\SayHello\\obj",
-    "\\Picture",
-    "\\VaruableAndDataType"
+    "\\IfAndSwitch",
+    "\\IfAndSwitch\\IfAndSwitch"
   ],
+  "SelectedNode": "\\IfAndSwitch\\IfAndSwitch\\Program.cs",
   "PreviewInSolutionExplorer": true
 }

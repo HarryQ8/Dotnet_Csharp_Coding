@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = IfAndSwitch
-build_property.ProjectDir = C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\IfAndSwitch\IfAndSwitch\
+build_property.RootNamespace = loopDemos
+build_property.ProjectDir = C:\Users\HuangQi\Source\Repos\HarryQ8\Dotnet_Csharp_Coding\loopDemos\loopDemos\

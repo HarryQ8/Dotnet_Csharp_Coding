@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HuangQi\\Source\\Repos\\HarryQ8\\Dotnet_Csharp_Coding\\IfAndSwitch\\IfAndSwitch\\IfAndSwitch.csproj": {}
+    "C:\\Users\\HuangQi\\source\\repos\\HarryQ8\\Dotnet_Csharp_Coding\\loopDemos\\loopDemos\\loopDemos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HuangQi\\Source\\Repos\\HarryQ8\\Dotnet_Csharp_Coding\\IfAndSwitch\\IfAndSwitch\\IfAndSwitch.csproj": {
+    "C:\\Users\\HuangQi\\source\\repos\\HarryQ8\\Dotnet_Csharp_Coding\\loopDemos\\loopDemos\\loopDemos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HuangQi\\Source\\Repos\\HarryQ8\\Dotnet_Csharp_Coding\\IfAndSwitch\\IfAndSwitch\\IfAndSwitch.csproj",
-        "projectName": "IfAndSwitch",
-        "projectPath": "C:\\Users\\HuangQi\\Source\\Repos\\HarryQ8\\Dotnet_Csharp_Coding\\IfAndSwitch\\IfAndSwitch\\IfAndSwitch.csproj",
+        "projectUniqueName": "C:\\Users\\HuangQi\\source\\repos\\HarryQ8\\Dotnet_Csharp_Coding\\loopDemos\\loopDemos\\loopDemos.csproj",
+        "projectName": "loopDemos",
+        "projectPath": "C:\\Users\\HuangQi\\source\\repos\\HarryQ8\\Dotnet_Csharp_Coding\\loopDemos\\loopDemos\\loopDemos.csproj",
         "packagesPath": "C:\\Users\\HuangQi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HuangQi\\Source\\Repos\\HarryQ8\\Dotnet_Csharp_Coding\\IfAndSwitch\\IfAndSwitch\\obj\\",
+        "outputPath": "C:\\Users\\HuangQi\\source\\repos\\HarryQ8\\Dotnet_Csharp_Coding\\loopDemos\\loopDemos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
