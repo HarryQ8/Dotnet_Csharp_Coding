@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\IfAndSwitch",
-    "\\IfAndSwitch\\IfAndSwitch"
+    "\\loopDemos",
+    "\\loopDemos\\loopDemos"
   ],
-  "SelectedNode": "\\IfAndSwitch\\IfAndSwitch\\Program.cs",
+  "SelectedNode": "\\loopDemos\\loopDemos\\Program.cs",
   "PreviewInSolutionExplorer": true
 }

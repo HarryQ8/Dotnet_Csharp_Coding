@@ -1,5 +1,6 @@
 using System;
 
+
 namespace loopDemos
 {
     class Program
@@ -8,7 +9,10 @@ namespace loopDemos
         {
             //Console.WriteLine("Hello World!");
 
-            SumFrom1To100();
+            //SumFrom1To100();
+            //InputQuitToStop();
+            //SumFrom1To100UseFor();
+            BreakAndContinue();
             Console.ReadKey();
         }
 
@@ -35,6 +39,83 @@ namespace loopDemos
 
         }
         #endregion
+
+
+        ///<summary>
+        ///使用特殊值结束输入
+        ///End input with special value
+        /// </summary>
+        static void InputQuitToStop()
+        {
+            string userInput = "";
+            while (userInput.ToLower() != "quit")   //将所得的字符串全部转成小写
+            {
+                Console.WriteLine("\n不断输入字符串，回车结束一次输入。当不在运行程序的时候，输入quit:");
+                userInput = Console.ReadLine();
+                if (string.IsNullOrEmpty(userInput) == false)
+                {
+                    Console.WriteLine("Your input:{0}", userInput);
+                }
+            }
+            Console.WriteLine("\n-------------");
+            Console.WriteLine("\n检测到quit命令，循环终止，按任意键退出...");
+        }
+
+
+        ///<summary>
+        ///使用for循环计算"1+2+3+...+100=?"
+        /// </summary>
+        static void SumFrom1To100UseFor()
+        {
+            //此变量将用于保存求和结果
+            int sum = 0;
+            for(int i = 1; i <= 100; i++)
+            {
+                sum += i;
+            }
+
+            //输出结果
+            Console.WriteLine(sum);
+
+
+
+            // we can output the range of number value in C#
+            int max = int.MaxValue;
+            int min = int.MinValue;
+            Console.WriteLine($"The range of integers is {min} to {max}");
+
+            int what = max + 5;
+            Console.WriteLine($"An example of overflow: {what}");
+        }
+
+
+        /// <summary>
+        /// 理解Break和Contiue的不同作用
+        /// </summary>
+        static void BreakAndContinue()
+        {
+            for(int i = 1; i <= 10; i++)
+            {
+                if (i == 5)
+                {
+                    //Switch the comments of the following two sentences to experience their different functions.
+                    //continue;
+                    break;
+                }
+                Console.WriteLine("the number of cycles is {0}.", i);
+            }
+        }
+
+
+
+
+
+
+
+
+
+
+
     }
 }
 
