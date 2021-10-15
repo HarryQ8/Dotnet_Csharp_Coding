@@ -1,5 +1,5 @@
 using System;
-
+using System.Collections.Generic;
 
 namespace loopDemos
 {
@@ -107,8 +107,21 @@ namespace loopDemos
         }
 
 
+        /// <summary>
+        /// 循环遍历集合中的每一个数据
+        /// </summary>
+        static void ForEachDataCollection()
+        {
+            Console.WriteLine("遍历整数集合:\n");
 
-
+            var IntValues = new List<int>() { 1, 2, 3, 4 };
+            foreach(var value in IntValues)
+            {
+                //取消以下注释，尝试在便利过程中从集合中移除数据，
+                //将会遇到"System.InvalidOperationException"异常
+                //if(v)
+            }
+        }
 
 
 
