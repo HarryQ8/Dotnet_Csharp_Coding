@@ -12,7 +12,8 @@ namespace loopDemos
             //SumFrom1To100();
             //InputQuitToStop();
             //SumFrom1To100UseFor();
-            BreakAndContinue();
+            //BreakAndContinue();
+            ForEachDataCollection();
             Console.ReadKey();
         }
 
@@ -119,11 +120,29 @@ namespace loopDemos
             {
                 //取消以下注释，尝试在便利过程中从集合中移除数据，
                 //将会遇到"System.InvalidOperationException"异常
-                //if(v)
+                //if(value==2)
+                //      IntValues.Remove(value);
+                Console.WriteLine(value);
             }
+
+
+            var MyClasses=new List<MyClass>();
+            //向集合中追加5个对象
+            for(int i=0;i<5;i++){
+                MyClasses.Add(new MyClass(){
+                    Id =i,
+                    Description="MyClass对象"+i
+                });
+            }
+        
+
+            //遍历对象集合
+            foreach (var obj in MyClasses)
+            {
+                Console.WriteLine("{0}:{1}",obj.Id,obj.Description);
+            }
+
         }
-
-
 
 
 
